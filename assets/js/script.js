@@ -126,7 +126,7 @@
 
 
 // task8
-
+// console.log(task8);
 // let number=prompt("enter number")
 // let s =("" + number).split("")
 // let highest=s[0]
